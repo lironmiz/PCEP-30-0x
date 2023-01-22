@@ -19,6 +19,14 @@ information and exercises are based on the official PCAP-30-02 Exam sudy syllabu
   </a>
 </p>
 
+
+![WhatsApp Image 2023-01-22 at 18 41 46](https://user-images.githubusercontent.com/91504420/213933777-17a240ab-ec57-4437-9651-98888427e279.jpg)
+
+# Origress Graph 📊
+
+![image](https://user-images.githubusercontent.com/91504420/213933839-0423e333-e61e-44f3-b9a0-5deefd621e01.png)
+
+
 # About The Certification 🗒️
 
 PCEP™ – Certified Entry-Level Python Programmer certification shows that the individual is familiar with universal computer programming concepts like data types, containers, functions, conditions, loops, as well as Python programming language syntax, semantics, and the runtime environment.
